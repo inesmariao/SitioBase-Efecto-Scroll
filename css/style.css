@@ -1,0 +1,29 @@
+body{
+	color:#fff;
+}
+.menu-1{
+	height: 60px;
+	background: #444;
+}
+.slider-1, .slider-2, .slider-3, .slider-4{
+	height: 100vh;
+	text-align: center;
+}
+.slider-1{
+	background: #e922c8;
+}
+.slider-2{
+	background: #38e032;
+}
+.slider-3{
+	background: #f5de0d;
+}
+.slider-4{
+	background: #4aabe4;
+}
+.footer{
+	background: #444;
+	color:#fff;
+	text-align: center;
+	padding: 10px;
+}
